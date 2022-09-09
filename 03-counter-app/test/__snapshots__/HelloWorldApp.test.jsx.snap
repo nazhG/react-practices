@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`componente react debe de mostrar un h1 con el texto hola mundo 1`] = `
+<div>
+  <p>
+    This is a simple React app.
+  </p>
+</div>
+`;

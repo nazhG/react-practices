@@ -12,6 +12,7 @@ import { Memorize } from './06-memos/Memorize'
 import { MemoHook } from './06-memos/MemoHook'
 import { CallHook } from './06-memos/CallHook'
 import { Padre } from './07-tarea-memo/Padre'
+import { TodoApp } from './08-useReducer/TodoApp'
 
 import './index.css'
 
@@ -28,6 +29,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     {/* <Memorize /> */}
     {/* <MemoHook /> */}
     {/* <CallHook /> */}
-    <Padre />
+    {/* <Padre /> */}
+    <TodoApp />
   </React.StrictMode>
 )
